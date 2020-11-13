@@ -8,6 +8,14 @@ Speakers were found using two resources, the [LibriVox Accents Table](https://wi
 
 Please be aware that this dataset is *likely not complete*, and *I make no promises of the regional accuracy*.
 
+Files are in a `.tar.gz` archive, split into 1GB chunks. This is because GitHub's LFS service imposes size limits, preventing the dataset being uploaded in a single file.
+
+## Downloading
+
+1. Install [git lfs](https://git-lfs.github.com/) if you do not have this installed.
+2. Run `git lfs install` to set up lfs for your user account.
+3. `git clone https://github.com/OscarVanL/LibriTTS-British-Accents`
+
 ## License
 
 The [original LibriTTS dataset](https://openslr.org/60/) was published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licensing. This gives me permission to share and adapt this dataset as long as I give attribution. You can do the same with this dataset.
