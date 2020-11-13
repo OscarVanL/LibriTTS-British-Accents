@@ -1,0 +1,97 @@
+; Speaker information in the LibriTTS-British English subset
+;
+;
+; The meaning of the fields in left-to-right order is as follows:
+;
+; reader_id: the ID of the reader in the LibriVox's database
+; gender: 'F' for female, 'M' for male
+; subset: the ibriTTS corpus subset the reader's audio was retrieved from
+; duration: total number of minutes of speech by the reader, included in the corpus
+; name: the name under which the reader is registered in LibriVox
+;
+;ID  |SEX| SUBSET           |MINUTES| NAME
+31   | M | train-other-500  | 23.79 | Martin Clifton
+75   | M | train-other-500  | 30.10 | Jim Mowatt
+92   | F | train-other-500  | 26.78 | Cori Samuel
+94   | M | train-other-500  | 30.11 | David Barnes
+103  | F | train-clean-100  | 23.72 | Karen Savage
+152  | M | train-other-500  | 28.67 | Andy Minter
+167  | M | train-other-500  | 21.75 | Peter Yearsley
+168  | M | train-other-500  | 28.32 | Chris Goringe
+296  | M | train-clean-360  | 25.16 | Carl Manchester
+365  | M | train-other-500  | 30.01 | Jon Ingram
+572  | M | train-other-500  | 29.18 | Rebecca Dittman
+614  | F | train-other-500  | 27.57 | Christine Blachford
+684  | F | train-other-500  | 30.04 | Lizzie Driver
+753  | M | train-other-500  | 26.92 | Tim Bulkeley
+1065 | M | train-other-500  | 30.18 | Justin Brett
+1085 | M | train-other-500  | 30.24 | hefyd
+1179 | M | train-other-500  | 28.84 | Alan Chant
+1255 | M | dev-other        | 10.03 | Simon Evers
+1331 | M | train-other-500  | 28.73 | Adrian Praetzellis
+1614 | M | train-other-500  | 30.11 | FNH
+1618 | M | train-other-500  | 23.98 | Nicholas James Bridgewater
+1685 | M | train-other-500  | 30.05 | Jonathan Horniblow
+1868 | M | train-other-500  | 30.08 | Graham Redman
+1870 | M | train-other-500  | 29.41 | Stuart Bell
+1938 | M | train-other-500  | 22.02 | icyjumbo (1964-2010)
+2026 | F | train-other-500  | 29.39 | Mil Nicholson
+2198 | M | train-other-500  | 29.82 | Clive Catterall
+2262 | M | train-other-500  | 25.53 | Andy
+2297 | F | train-other-500  | 30.20 | Philippa
+2356 | M | train-other-500  | 30.20 | Paul Curran
+2487 | F | train-other-500  | 28.17 | Rachel Lintern
+2574 | M | train-other-500  | 28.34 | TimSC
+2587 | F | train-other-500  | 30.13 | Anne Cheng
+2607 | F | train-other-500  | 30.11 | Ruth Golding
+2724 | M | train-other-500  | 20.73 | Michael Dalling
+2854 | M | train-other-500  | 30.25 | Andrew Coleman
+2999 | M | train-clean-360  | 25.16 | Joseph Finkberg
+3006 | F | train-other-500  | 30.14 | MorganScorpion
+3465 | F | train-other-500  | 29.59 | ravenotation
+3470 | M | train-other-500  | 30.11 | Jason Mills
+3595 | M | train-other-500  | 30.07 | Martin Geeson
+3615 | F | train-clean-360  | 25.05 | Lucy Perry
+4005 | F | train-other-500  | 30.14 | Jhiu
+4234 | F | train-other-500  | 30.02 | laineyben
+4396 | F | train-other-500  | 30.07 | Michael Wolf
+4484 | M | train-other-500  | 30.23 | Phil Griffiths
+4969 | M | train-other-500  | 30.07 | Garth Burton
+5077 | F | train-other-500  | 30.05 | Sandra G
+5321 | M | train-other-500  | 29.97 | Adam Whybray
+5468 | F | train-other-500  | 30.12 | ashleighjane
+5628 | M | train-other-500  | 30.02 | Adrian Wheal
+5700 | M | train-other-500  | 30.13 | Paul Adams
+5910 | M | train-other-500  | 18.31 | Anthony Lee
+6097 | M | train-other-500  | 30.12 | Phil Benson
+6138 | F | train-other-500  | 30.09 | Deborah Brabyn
+6173 | F | train-other-500  | 30.14 | Carol Box
+6248 | M | train-other-500  | 30.24 | Kevin Green
+6311 | M | train-other-500  | 21.53 | TRUEBRIT
+6399 | M | train-other-500  | 29.43 | Edmund Bloxam
+6459 | M | train-other-500  | 26.29 | Nigel Boydell
+6609 | M | train-other-500  | 29.53 | Patrick Wallace
+6660 | F | train-other-500  | 30.19 | Nicole Lee
+7026 | F | train-other-500  | 23.84 | Michele Eaton
+7228 | M | train-other-500  | 29.36 | Peter John Keeble
+7307 | M | train-other-500  | 27.58 | Anthony Ogus
+7315 | F | train-other-500  | 11.77 | Charlotte Duckett
+7342 | F | train-clean-360  | 25.01 | Carol
+7389 | M | train-other-500  | 30.17 | Steve C
+7408 | M | train-other-500  | 30.14 | David Clarke
+7424 | M | train-other-500  | 30.04 | Christopher Smith
+7556 | M | train-other-500  | 30.14 | Alex Lau
+7700 | M | train-other-500  | 28.24 | Dave Wills
+7756 | F | train-other-500  | 30.12 | Lynne Thompson
+8042 | M | train-other-500  | 30.18 | Jack Watson Warr
+8143 | M | train-other-500  | 30.01 | Nick Whitley
+8164 | M | train-other-500  | 23.10 | Rob Board
+8172 | M | train-other-500  | 16.88 | Alan Weyman
+8321 | F | train-other-500  | 30.15 | SamR
+8356 | M | train-other-500  | 30.16 | Paul Mazumdar
+8382 | F | train-other-500  | 26.80 | Claire Schreuder
+8466 | M | train-other-500  | 19.38 | Chris Cartwright
+8500 | M | train-other-500  | 30.12 | Ravi Shankar
+8565 | M | train-other-500  | 28.92 | Patrick Eaton
+8631 | M | train-other-500  | 30.06 | Edward Kirkby
+8803 | M | train-other-500  | 23.76 | Ben Lindsey-Clark

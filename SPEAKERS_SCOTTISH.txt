@@ -1,0 +1,14 @@
+; Speaker information in the LibriTTS-British Scottish subset
+;
+;
+; The meaning of the fields in left-to-right order is as follows:
+;
+; reader_id: the ID of the reader in the LibriVox's database
+; gender: 'F' for female, 'M' for male
+; subset: the ibriTTS corpus subset the reader's audio was retrieved from
+; duration: total number of minutes of speech by the reader, included in the corpus
+; name: the name under which the reader is registered in LibriVox
+;
+;ID  |SEX| SUBSET            |MINUTES| NAME
+1230 | M | libritts-scottish | 30.03 | Ian Skillen
+2262 | M | libritts-scottish | 25.53 | Andy

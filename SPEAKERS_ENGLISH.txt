@@ -1,0 +1,97 @@
+; Speaker information in the LibriTTS-British English subset
+;
+;
+; The meaning of the fields in left-to-right order is as follows:
+;
+; reader_id: the ID of the reader in the LibriVox's database
+; gender: 'F' for female, 'M' for male
+; subset: the ibriTTS corpus subset the reader's audio was retrieved from
+; duration: total number of minutes of speech by the reader, included in the corpus
+; name: the name under which the reader is registered in LibriVox
+;
+;ID  |SEX| SUBSET            |MINUTES| NAME
+31   | M | libritts-english  | 23.79 | Martin Clifton
+75   | M | libritts-english  | 30.10 | Jim Mowatt
+92   | F | libritts-english  | 26.78 | Cori Samuel
+94   | M | libritts-english  | 30.11 | David Barnes
+103  | F | libritts-english  | 23.72 | Karen Savage
+152  | M | libritts-english  | 28.67 | Andy Minter
+167  | M | libritts-english  | 21.75 | Peter Yearsley
+168  | M | libritts-english  | 28.32 | Chris Goringe
+296  | M | libritts-english  | 25.16 | Carl Manchester
+365  | M | libritts-english  | 30.01 | Jon Ingram
+572  | M | libritts-english  | 29.18 | Rebecca Dittman
+614  | F | libritts-english  | 27.57 | Christine Blachford
+684  | F | libritts-english  | 30.04 | Lizzie Driver
+753  | M | libritts-english  | 26.92 | Tim Bulkeley
+1065 | M | libritts-english  | 30.18 | Justin Brett
+1085 | M | libritts-english  | 30.24 | hefyd
+1179 | M | libritts-english  | 28.84 | Alan Chant
+1255 | M | libritts-english  | 10.03 | Simon Evers
+1331 | M | libritts-english  | 28.73 | Adrian Praetzellis
+1614 | M | libritts-english  | 30.11 | FNH
+1618 | M | libritts-english  | 23.98 | Nicholas James Bridgewater
+1685 | M | libritts-english  | 30.05 | Jonathan Horniblow
+1868 | M | libritts-english  | 30.08 | Graham Redman
+1870 | M | libritts-english  | 29.41 | Stuart Bell
+1938 | M | libritts-english  | 22.02 | icyjumbo (1964-2010)
+2026 | F | libritts-english  | 29.39 | Mil Nicholson
+2198 | M | libritts-english  | 29.82 | Clive Catterall
+2262 | M | libritts-english  | 25.53 | Andy
+2297 | F | libritts-english  | 30.20 | Philippa
+2356 | M | libritts-english  | 30.20 | Paul Curran
+2487 | F | libritts-english  | 28.17 | Rachel Lintern
+2574 | M | libritts-english  | 28.34 | TimSC
+2587 | F | libritts-english  | 30.13 | Anne Cheng
+2607 | F | libritts-english  | 30.11 | Ruth Golding
+2724 | M | libritts-english  | 20.73 | Michael Dalling
+2854 | M | libritts-english  | 30.25 | Andrew Coleman
+2999 | M | libritts-english  | 25.16 | Joseph Finkberg
+3006 | F | libritts-english  | 30.14 | MorganScorpion
+3465 | F | libritts-english  | 29.59 | ravenotation
+3470 | M | libritts-english  | 30.11 | Jason Mills
+3595 | M | libritts-english  | 30.07 | Martin Geeson
+3615 | F | libritts-english  | 25.05 | Lucy Perry
+4005 | F | libritts-english  | 30.14 | Jhiu
+4234 | F | libritts-english  | 30.02 | laineyben
+4396 | F | libritts-english  | 30.07 | Michael Wolf
+4484 | M | libritts-english  | 30.23 | Phil Griffiths
+4969 | M | libritts-english  | 30.07 | Garth Burton
+5077 | F | libritts-english  | 30.05 | Sandra G
+5321 | M | libritts-english  | 29.97 | Adam Whybray
+5468 | F | libritts-english  | 30.12 | ashleighjane
+5628 | M | libritts-english  | 30.02 | Adrian Wheal
+5700 | M | libritts-english  | 30.13 | Paul Adams
+5910 | M | libritts-english  | 18.31 | Anthony Lee
+6097 | M | libritts-english  | 30.12 | Phil Benson
+6138 | F | libritts-english  | 30.09 | Deborah Brabyn
+6173 | F | libritts-english  | 30.14 | Carol Box
+6248 | M | libritts-english  | 30.24 | Kevin Green
+6311 | M | libritts-english  | 21.53 | TRUEBRIT
+6399 | M | libritts-english  | 29.43 | Edmund Bloxam
+6459 | M | libritts-english  | 26.29 | Nigel Boydell
+6609 | M | libritts-english  | 29.53 | Patrick Wallace
+6660 | F | libritts-english  | 30.19 | Nicole Lee
+7026 | F | libritts-english  | 23.84 | Michele Eaton
+7228 | M | libritts-english  | 29.36 | Peter John Keeble
+7307 | M | libritts-english  | 27.58 | Anthony Ogus
+7315 | F | libritts-english  | 11.77 | Charlotte Duckett
+7342 | F | libritts-english  | 25.01 | Carol
+7389 | M | libritts-english  | 30.17 | Steve C
+7408 | M | libritts-english  | 30.14 | David Clarke
+7424 | M | libritts-english  | 30.04 | Christopher Smith
+7556 | M | libritts-english  | 30.14 | Alex Lau
+7700 | M | libritts-english  | 28.24 | Dave Wills
+7756 | F | libritts-english  | 30.12 | Lynne Thompson
+8042 | M | libritts-english  | 30.18 | Jack Watson Warr
+8143 | M | libritts-english  | 30.01 | Nick Whitley
+8164 | M | libritts-english  | 23.10 | Rob Board
+8172 | M | libritts-english  | 16.88 | Alan Weyman
+8321 | F | libritts-english  | 30.15 | SamR
+8356 | M | libritts-english  | 30.16 | Paul Mazumdar
+8382 | F | libritts-english  | 26.80 | Claire Schreuder
+8466 | M | libritts-english  | 19.38 | Chris Cartwright
+8500 | M | libritts-english  | 30.12 | Ravi Shankar
+8565 | M | libritts-english  | 28.92 | Patrick Eaton
+8631 | M | libritts-english  | 30.06 | Edward Kirkby
+8803 | M | libritts-english  | 23.76 | Ben Lindsey-Clark

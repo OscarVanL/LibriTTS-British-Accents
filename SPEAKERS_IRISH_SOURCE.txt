@@ -1,0 +1,15 @@
+; Speaker information in the LibriTTS-British Irish subset
+;
+;
+; The meaning of the fields in left-to-right order is as follows:
+;
+; reader_id: the ID of the reader in the LibriVox's database
+; gender: 'F' for female, 'M' for male
+; subset: the ibriTTS corpus subset the reader's audio was retrieved from
+; duration: total number of minutes of speech by the reader, included in the corpus
+; name: the name under which the reader is registered in LibriVox
+;
+;ID  |SEX| SUBSET            |MINUTES| NAME
+1933 | F | train-clean-360   | 14.97 | iremonger
+4344 | M | train-other-500   | 26.88 | Tadhg
+6553 | M | train-clean-360   | 25.18 | DublinGothic
