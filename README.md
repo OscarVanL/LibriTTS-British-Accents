@@ -10,7 +10,14 @@ Please be aware that this dataset is *likely not complete*, and *I make no promi
 
 Files are in a `.tar.gz` archive, split into 1GB chunks. This is because GitHub's LFS service imposes size limits, preventing the dataset being uploaded in a single file.
 
-## Downloading
+## Download
+
+[Mega](https://mega.nz/file/JXAnAajA#VVrtPxoDBYIjipoUe_hDYTrvaiKuV2pELZVQWVeOMoc)
+
+[Google Drive](https://drive.google.com/file/d/1o50YMBASmd4NODd-7a5bCiiqAMEUgn0v/view?usp=sharing)
+
+### GitHub LFS
+Note: GitHub LFS requires the purchase of "data packs", so I'd advise against using it.
 
 1. Install [git lfs](https://git-lfs.github.com/) if you do not have this installed.
 2. Run `git lfs install` to set up lfs for your user account.
