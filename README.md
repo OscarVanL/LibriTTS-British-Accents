@@ -12,8 +12,6 @@ Files are in a `.tar.gz` archive, split into 1GB chunks. This is because GitHub'
 
 ## Download
 
-[Mega](https://mega.nz/file/JXAnAajA#VVrtPxoDBYIjipoUe_hDYTrvaiKuV2pELZVQWVeOMoc)
-
 [Google Drive](https://drive.google.com/file/d/1o50YMBASmd4NODd-7a5bCiiqAMEUgn0v/view?usp=sharing)
 
 ### GitHub LFS
