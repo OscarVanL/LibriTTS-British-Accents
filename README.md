@@ -10,9 +10,11 @@ Please be aware that this dataset is *likely not complete*, and *I make no promi
 
 Files are in a `.tar.gz` archive, split into 1GB chunks. This is because GitHub's LFS service imposes size limits, preventing the dataset being uploaded in a single file.
 
-## Download
+## Download Mirrors
 
-[Google Drive](https://drive.google.com/file/d/1o50YMBASmd4NODd-7a5bCiiqAMEUgn0v/view?usp=sharing)
+[Kaggle dataset](https://www.kaggle.com/datasets/oscarvl/libritts-british-accents)
+
+[Kaggle direct download](https://www.kaggle.com/datasets/oscarvl/libritts-british-accents/download?datasetVersionNumber=1)
 
 ### GitHub LFS
 Note: GitHub LFS requires the purchase of "data packs", so I'd advise against using it.
